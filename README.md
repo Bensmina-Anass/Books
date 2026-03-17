@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="./covers/DataPipelinesWithApacheAirflow.jpg" alt="Data Pipelines with apache airflow (2nd ed)" width="230">
+  <img src="./covers/DataPipelinesWithApacheAirflow.png" alt="Data Pipelines with apache airflow (2nd ed)" width="230">
   <img src="./covers/dockerinaction.jpg" alt="Docker in Action (2nd ed)" width="230">
-  <img src="./covers/git.jpg" alt="Git Pro" width="230">
+  <img src="./covers/git.png" alt="Git Pro" width="230">
 </p>
 
 ---
